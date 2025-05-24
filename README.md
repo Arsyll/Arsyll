@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsyl Slamet Amrulloh</h1>
 <h3 align="center">A passionate Fullstack Web Developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **CV. Torche Indonesia as Backend Developer**
-
-- 👯 I’m looking to collaborate on **our web development project**
-
-- 💬 Ask me about **Frontend, Backend, Laravel, HTML, CSS, JS**
-
-- 📫 How to reach me **arsylslametamrulloh@gmail.com**
+How to reach me **arsylslametamrulloh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
